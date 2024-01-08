@@ -91,7 +91,7 @@ class Solver(object):
         self.optimizer = torch.optim.Adam(self.model.parameters(), lr=self.lr)
 
         if torch.cuda.is_available():
-            self.model.cuda()
+            self.model#.cuda()
 
     def vali(self, vali_loader):
         self.model.eval()
