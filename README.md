@@ -1,3 +1,5 @@
+# This is not original Anomaly-Transformer repository 
+
 # Anomaly-Transformer (ICLR 2022 Spotlight)
 Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy
 
